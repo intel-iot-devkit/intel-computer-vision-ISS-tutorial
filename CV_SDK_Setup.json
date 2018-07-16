@@ -1,0 +1,21 @@
+{
+   "Name":"CV-SDK setup with Intel System Studio ",
+   "Description":" This project explains how to use CV-SDK libraries with Intel System Studio for executing OpenCV programs. The code provided can be used to validate the installation of CV-SDK on UP SQUARED Grove IoT Kit using Intel System Studio.",
+   "Hardware & platform":{
+      "Hardware":[
+         "UP Squared Grove IoT Development Kit"
+      ],
+      "Libs":[
+         "CV-SDK"
+      ],
+      "OS":[
+         " Ubuntu 16.04"
+      ],
+      "IDE":[
+         "Intel System Studio 2018"
+      ],
+      "Programming Language":[
+         "C++"
+      ]
+   }
+}
